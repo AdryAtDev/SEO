@@ -1,7 +1,6 @@
 # Semrush
 
-
-*"The experts at **Forbes Advisor** rank Ahrefs as the overall best SEO tool for small businesses."*
+Semrush is a leader in search engine optimization (SEO) with a variety of useful tools to help businesses discover the best keywords, improve on-page SEO, analyze competitors, build links and gain valuable visibility in search engines, such as Google.
 
 [Website](https://www.semrush.com/)
 
