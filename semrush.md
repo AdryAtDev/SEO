@@ -16,7 +16,7 @@ Semrush is a leader in search engine optimization (SEO) with a variety of useful
         * [On-Page and technical SEO](#on-page-and-technical-seo)
     * [Content marketing](#content-marketing)
     * [Market research](#market-research)
-    * [Advertising](#advertising)
+    * [Advertising](#advertisgging)
     * [Social media](#social-media)
 * [Security](#security)
 
