@@ -45,11 +45,6 @@ In terms of features, Ahrefs is better known for its backlink tracking whereas S
 - **Pros:** Free plan available, all-in-one marketing platform, robust SEO features.
 - **Cons:** Can be confusing for beginners, expensive paid plans, free plan is very limited.
 
-### Pricing
-
-- **Ahrefs:** Starts at $99/month (Lite plan)
-- **Semrush:** Free plan available, paid plans start at $119.95/month (Pro plan)
-
 ## Who Should Choose Which?
 
 - **Ahrefs:** Ideal for SEO professionals and businesses needing in-depth backlink analysis, keyword research, and rank tracking.
